@@ -1,1 +1,1 @@
-console.log('app2');
+console.log('This directory is ignored!');

@@ -1,1 +1,1 @@
-log files are usually not uploaded
+Log files are usually not uploaded and thus ignored!
